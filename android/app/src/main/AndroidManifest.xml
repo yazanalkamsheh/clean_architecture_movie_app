@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.clean_architecture_movie_app">
    <application
-        android:label="clean_architecture_movie_app"
+        android:label="TMDB Movies"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
